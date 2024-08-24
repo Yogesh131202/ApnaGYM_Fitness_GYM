@@ -68,7 +68,7 @@ ApnaGYM_Fitness_GYM/
 One of the key challenges faced during the development of this project was integrating data from the Rapid API. It required a deep understanding of how to handle API requests and dynamically render the data within the application. Through persistent effort and research, these challenges were successfully overcome.
 
 ## Contributing
-Contributions are welcome! If you have any ideas for improvements or new features, feel free to submit a pull request or open an issue.
+Contributions are welcome! If you have any ideas for improvements or new features, feel free to submit a pull request or [open an issue](https://github.com/Yogesh131202/ApnaGYM_Fitness_GYM/issues).
 
 
 ## Contact
